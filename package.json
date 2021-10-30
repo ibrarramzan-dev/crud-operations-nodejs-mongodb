@@ -1,0 +1,34 @@
+{
+  "name": "crud-operations-nodejs-mongodb",
+  "version": "1.0.0",
+  "description": "Complete CRUD operations with Nodejs & MongoDB",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibrarramzan-dev/crud-operations-nodejs-mongodb.git"
+  },
+  "keywords": [
+    "crud",
+    "nodejs",
+    "mongodb",
+    "express",
+    "js"
+  ],
+  "author": "Ibrar Ramzan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ibrarramzan-dev/crud-operations-nodejs-mongodb/issues"
+  },
+  "homepage": "https://github.com/ibrarramzan-dev/crud-operations-nodejs-mongodb#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.12"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
